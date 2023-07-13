@@ -124,3 +124,16 @@ margin-bottom: 20px;
 .about-info{
    text-align:center ;
 }
+
+#what-desc{
+   padding: 30px 150px;
+}
+
+.skills-container{
+   display: flex;
+   justify-content: space-around;
+}
+
+.skills{
+   text-align: center;
+}
